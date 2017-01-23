@@ -1,4 +1,3 @@
-import quantity
 #!/usr/bin/env python
 
 import unittest
